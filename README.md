@@ -7,8 +7,7 @@ A Peneira é um painel de gerenciamento projetado para simplificar o processo de
 ## Instalação
 
 1. Certifique-se de ter o Node.js instalado em seu computador. Você pode baixá-lo [aqui](https://nodejs.org/).
-2. Clone este repositório para o seu computador utilizando o seguinte comando:
-`git clone https://github.com/Antony-Oliveira/peneira.git`
+2. Clone este repositório para o seu computador 
 3. Navegue até o diretório da aplicação:
 4. Instale as dependências utilizando o npm:
 `npm install`
